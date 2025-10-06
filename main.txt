@@ -1,2 +1,6 @@
 This is the main branch
+<<<<<<< HEAD
 &quot;Изменение из ветки main&quot
+=======
+&quot;Изменение из ветки conflict-branch&quot
+>>>>>>> conflict-branch
